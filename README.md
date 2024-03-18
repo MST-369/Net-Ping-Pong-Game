@@ -1,4 +1,4 @@
-# Net-Ping-pong-Game
+# Net-Ping-Pong-Game
 
 
 ***********HOW TO START THE GAME?**********************
